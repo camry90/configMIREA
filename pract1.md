@@ -58,6 +58,7 @@ h hello include int main n printf return stdio void world
 ```
 ./reg banner
 ```
+![5](https://github.com/user-attachments/assets/82e39c3d-3e3b-455c-b27e-dfed67d44a45)
 
 В результате для banner задаются правильные права доступа и сам banner копируется в /usr/local/bin.
 
